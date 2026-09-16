@@ -1,0 +1,1 @@
+Fixed mobile hamburger menu: close button is always on top, touch accessible, Escape closes, menu links close the panel, and body scrolling is locked while open.
