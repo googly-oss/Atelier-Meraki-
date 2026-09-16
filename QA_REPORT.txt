@@ -1,0 +1,23 @@
+ATELIER MERAKI — GIT READY QA
+
+PASS
+- HTML file: self-contained index.html
+- Hero reel: 8 original embedded interior images
+- Hero animation: CSS cinematic reel / continuous loop
+- Moving gallery: 16 cards (duplicated for seamless movement)
+- Designer section: 1 section, positioned before Contact
+- Contact section: present
+- External image files: 0 (should be 0)
+- Duplicate HTML IDs: 0
+- JavaScript blocks: 3
+- Responsive breakpoints: 900px / 560px
+- Mobile overflow hardening: enabled
+- 100vh + 100svh hero fallback: enabled
+- Supplied Chetna Jain designer artwork remains embedded
+- Facebook / Instagram / WhatsApp / Call Now top links retained
+- Floating WhatsApp retained
+- Gallery lightbox retained
+- Contact form WhatsApp handoff retained
+
+NOTE
+The page is a single self-contained HTML file, so there are no local image-folder paths to break when uploaded to GitHub Pages.
